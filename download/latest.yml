@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 0.0.1
 files:
-  - url: BOOK Setup 1.0.0.exe
-    sha512: Ag/q/b6KsyEyHJ7d2orZRaQQxYg5DJSbzYMDzPeB24jR+t/J5UwHbrMynbg3gPxBmJs8JXQQM+x72EUca3mkPA==
-    size: 41649601
-path: BOOK Setup 1.0.0.exe
-sha512: Ag/q/b6KsyEyHJ7d2orZRaQQxYg5DJSbzYMDzPeB24jR+t/J5UwHbrMynbg3gPxBmJs8JXQQM+x72EUca3mkPA==
-releaseDate: '2019-10-29T10:30:06.151Z'
+  - url: my-project Setup 0.0.1.exe
+    sha512: Gj/VXECfMw70jdzz9p3wrOpD/P9jQoa17WVZMCFEeq+pfpld2cSMqbeHGHM84aQdEiJP63uftUs6Mdzg4t580A==
+    size: 38413714
+path: my-project Setup 0.0.1.exe
+sha512: Gj/VXECfMw70jdzz9p3wrOpD/P9jQoa17WVZMCFEeq+pfpld2cSMqbeHGHM84aQdEiJP63uftUs6Mdzg4t580A==
+releaseDate: '2019-10-29T12:16:19.849Z'
